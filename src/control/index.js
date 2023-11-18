@@ -3,10 +3,10 @@ import todo from './todo';
 
 const keyboard = {
   37: 'left',
-  38: 'rotate',
+  38: 'space',
   39: 'right',
   40: 'down',
-  32: 'space',
+  32: 'rotate',
   83: 's',
   82: 'r',
   80: 'p',
